@@ -1,4 +1,4 @@
-# Microban: A Compact, Fully 3D-Printable Open-Source Humanoid Robot
+# chitti: A Compact, Fully 3D-Printable Open-Source Humanoid Robot
 
 [![License: GPL v3](https://img.shields.io/badge/Software-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Hardware-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -10,9 +10,9 @@
   <img height="380px" alt="image" src="https://github.com/user-attachments/assets/11ab24f1-ea60-4219-8a92-078d78795115" />
 </p>
   
-Welcome to the **Microban** project! 
+Welcome to the **chitti** project! 
 
-Microban is a ~30cm tall open-source humanoid robot created by [Marc Duclusaud](https://github.com/MarcDcls) as a member of the Rhoban team at LaBRI, University of Bordeaux, and designed specifically for makers, students, and robotics enthusiasts. The core philosophy behind this project is accessibility: the total cost of the robot is kept relatively low ($550-$600), all components are 3D-printable or easily sourced, and the assembly process is guided with detailed instructions. This means that anyone with a standard desktop 3D printer and a few basic tools should be able to build their own Microban from scratch.
+chitti is a ~30cm tall open-source humanoid robot created by [Marc Duclusaud](https://github.com/MarcDcls) as a member of the Rhoban team at LaBRI, University of Bordeaux, and designed specifically for makers, students, and robotics enthusiasts. The core philosophy behind this project is accessibility: the total cost of the robot is kept relatively low ($550-$600), all components are 3D-printable or easily sourced, and the assembly process is guided with detailed instructions. This means that anyone with a standard desktop 3D printer and a few basic tools should be able to build their own Microban from scratch.
 
 The idea behind Microban is to provide a platform for learning and experimentation in robotics. By making the design open, users are encouraged to modify, improve, and share their own versions of the robot. Whether you're interested in programming, mechanical design, or electronics, Microban offers a hands-on experience that can help you develop your skills in a fun and engaging way.
 
@@ -132,6 +132,8 @@ If you use Microban in your research, please cite it as follows:
   <img width="100%" alt="image" src="https://github.com/user-attachments/assets/f944db1b-b324-4915-a785-72229313eb72" />
 </p>
   
-#   m i c r o b a n  
- #   m i c r o b a n  
+#   m i c r o b a n 
+ 
+ #   m i c r o b a n 
+ 
  
